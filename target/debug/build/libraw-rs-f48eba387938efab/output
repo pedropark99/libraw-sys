@@ -1,7 +1,0 @@
-cargo:rustc-link-search=/usr/local/lib
-cargo:rustc-link-search=/usr/lib/gcc/x86_64-linux-gnu/13/include
-cargo:rustc-link-lib=raw
-cargo:rustc-link-lib=pthread
-cargo:rustc-link-lib=lcms2
-cargo:rustc-link-lib=z
-cargo:rustc-link-lib=m
