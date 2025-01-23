@@ -1,5 +1,12 @@
+target/
+
 *.o
 *.so
 *.a
 *.lock
 *.lo
+*.bin
+*.exe
+*.d
+*.rlib
+*.rmeta
